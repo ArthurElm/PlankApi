@@ -1,6 +1,6 @@
-For this project I use mangoDB for database. 
+For this project I used mangoDB for database. 
 Also installing nodemon is a good thing to do.
-I also Used Postman to do requests
+I also used Postman to do requests
 
 First of all I created a Shema which is an object with characteristics. (plank.js)
 Then, in order to use this object, I linked the file to to main file which is index.js.
