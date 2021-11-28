@@ -7,3 +7,6 @@ Then, in order to use this object, I linked the file to to main file which is in
 After that adding the libraries plugins and imports, I created the requests to handle
 the object (get, post, put...).
 Finaly, liked to the database of mangoDB.
+
+Github link (on master branch): https://github.com/ArthurElm/PlankApi/tree/master
+MangoDB link: mongodb+srv://admin:admin@plankapi.akeu3.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
